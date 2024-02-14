@@ -1,1 +1,2 @@
 # FDP_line_follower
+We made a PID controlled Line Follower robot capable of navigating through junctions,90 degree turns and curved paths. The robot was made inhouse using custom PCB(printed circuit boards), custom motor mounts and laser cut acrylic for the base. CAD model was made using solidworks, PCB designing was done on EasyEDA and as the microcontroller we used Arduino UNO ( ATmega328P based).
